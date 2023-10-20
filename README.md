@@ -1,2 +1,2 @@
 # tremelo_MFL
-Tremelo - Simple Tremolo
+Tremelo - Simple Tremolo Max For Live device
